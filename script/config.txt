@@ -1,0 +1,9 @@
+
+account login wordpress
+username: admin
+password: admin
+
+sau khi import file sql thì cần tạo mới một account privilege bằng cách add new user
+account privalege sql
+username : admin
+password: admin
